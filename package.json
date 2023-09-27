@@ -36,16 +36,8 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/swkidd/react-native-japanese-ocr",
-  "author": "swkidd <kiddsoftware@gmail.com> (https://github.com/swkidd)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/swkidd/react-native-japanese-ocr/issues"
-  },
-  "homepage": "https://github.com/swkidd/react-native-japanese-ocr#readme",
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
-  },
+  "repository": "https://github.com/NguyenTrongDuc256/react-native-japanese-ocr",
+  "author": "NguyenTrongDuc256 (https://github.com/NguyenTrongDuc256)",
   "devDependencies": {
     "@commitlint/config-conventional": "^11.0.0",
     "@react-native-community/eslint-config": "^2.0.0",
