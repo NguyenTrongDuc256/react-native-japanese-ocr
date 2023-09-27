@@ -4,10 +4,14 @@ A React-Native package for preforming OCR on Japanese text using Google MLKit Te
 
 ### CURRENTLY ONLY ANDROID IS SUPPORTED
 
+
 ## Installation
 
 ```sh
-npm install react-native-japanese-ocr
+npm install @NguyenTrongDuc256/react-native-japanese-ocr
+```
+```sh
+yarn add @NguyenTrongDuc256/react-native-japanese-ocr
 ```
 
 ## Usage
